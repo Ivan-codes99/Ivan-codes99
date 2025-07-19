@@ -29,7 +29,7 @@ I'm a passionate full-stack developer with a strong foundation in backend engine
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 I'm an engineer first — not defined by a specific language or framework, but by a mindset of problem-solving, adaptability, and delivering value.
 
 These are technologies I’ve worked with recently, but I’m always open to learning new ones when the challenge calls for it:
