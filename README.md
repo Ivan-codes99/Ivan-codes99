@@ -41,10 +41,10 @@ These are technologies I’ve worked with recently, but I’m always open to lea
 
 ##  Projects
 
-###  CookEasy – AI-Powered Recipe App
+### CookEasy – AI-Powered Recipe App
 AI-driven app that recommends recipes based on available kitchen ingredients. Built with **React Native**, **Node.js**, **MongoDB**, and **OpenAI API**.
 
-### 🛍 CreatorsFIU – Student Web Marketplace
+### CreatorsFIU – Student Web Marketplace
 A modern marketplace web app for student creators. Built using **React**, **Tailwind CSS**, and designed in **Figma**.
 
 ---
