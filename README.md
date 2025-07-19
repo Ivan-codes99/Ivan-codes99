@@ -5,13 +5,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate full-stack developer with a strong foundation in backend engineering and a keen eye for clean, responsive frontend design. I’ve built real-world applications in collaborative, agile environments, like a loyalty platforms for small businesses at AstraWeb and social media/online marketplace platform in my current internship at Sports Excitement. Whether it's integrating Supabase auth, architecting REST APIs, or mentoring teams, I enjoy solving meaningful problems with code.
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### 🔹 Full Stack Software Engineer Intern — *Sports Excitement* (Summer 2025)
 - Developed responsive UIs with **React** and **Tailwind**, cutting dev time by 3 days.
@@ -29,7 +29,7 @@ I'm a passionate full-stack developer with a strong foundation in backend engine
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 I'm an engineer first — not defined by a specific language or framework, but by a mindset of problem-solving, adaptability, and delivering value.
 
 These are technologies I’ve worked with recently, but I’m always open to learning new ones when the challenge calls for it:
@@ -39,17 +39,17 @@ These are technologies I’ve worked with recently, but I’m always open to lea
 
 ---
 
-## 📱 Projects
+##  Projects
 
-### 🍳 CookEasy – AI-Powered Recipe App
+###  CookEasy – AI-Powered Recipe App
 AI-driven app that recommends recipes based on available kitchen ingredients. Built with **React Native**, **Node.js**, **MongoDB**, and **OpenAI API**.
 
-### 🛍️ CreatorsFIU – Student Web Marketplace
+### 🛍 CreatorsFIU – Student Web Marketplace
 A modern marketplace web app for student creators. Built using **React**, **Tailwind CSS**, and designed in **Figma**.
 
 ---
 
-## 🧠 Leadership & Teaching
+##  Leadership & Teaching
 
 - **AI Project Coordinator** @ AI4ALL: Mentored student ML teams and guided project development.
 - **Python Instructor** for middle schoolers: Taught CS fundamentals through hands-on coding.
