@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with a strong foundation in backend engineering and a keen eye for clean, responsive frontend design. I’ve built real-world applications across industries—from loyalty platforms to AI-powered recipe generators—and thrive in collaborative, agile environments. Whether it's integrating Supabase auth, architecting REST APIs, or mentoring teams, I enjoy solving meaningful problems with code.
+I'm a passionate full-stack developer with a strong foundation in backend engineering and a keen eye for clean, responsive frontend design. I’ve built real-world applications in collaborative, agile environments, like a loyalty platforms for small businesses at AstraWeb and social media/online marketplace platform in my current internship at Sports Excitement. Whether it's integrating Supabase auth, architecting REST APIs, or mentoring teams, I enjoy solving meaningful problems with code.
 
 ---
 
