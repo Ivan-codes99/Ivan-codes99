@@ -65,5 +65,3 @@ A modern marketplace web app for student creators. Built using **React**, **Tail
 💻 [GitHub](https://github.com/Ivan-codes99)
 
 ---
-
-> "Code with purpose, build with impact."
