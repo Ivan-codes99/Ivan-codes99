@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Ivan Figueroa
+# Hi, I'm Ivan Figueroa
 
-🎓 **MSCS @ Florida International University** | 💻 **Full Stack Engineer**  
-🌐 [Portfolio](https://ivanfigueroa.dev) • [LinkedIn](https://linkedin.com/in/IvanFigueroa1) • [GitHub](https://github.com/Ivan-codes99)
+ **MSCS @ Florida International University** |  **Full Stack Engineer**  
+ [Portfolio](https://ivanfigueroa.dev) • [LinkedIn](https://linkedin.com/in/IvanFigueroa1) • [GitHub](https://github.com/Ivan-codes99)
 
 ---
 
@@ -57,11 +57,11 @@ A modern marketplace web app for student creators. Built using **React**, **Tail
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
-📧 [ivanfigueroaswe@gmail.com](mailto:ivanfigueroaswe@gmail.com)  
-🌐 [ivanfigueroa.dev](https://ivanfigueroa.dev)  
-🔗 [LinkedIn](https://linkedin.com/in/IvanFigueroa1)  
-💻 [GitHub](https://github.com/Ivan-codes99)
+ [ivanfigueroaswe@gmail.com](mailto:ivanfigueroaswe@gmail.com)  
+ [ivanfigueroa.dev](https://ivanfigueroa.dev)  
+ [LinkedIn](https://linkedin.com/in/IvanFigueroa1)  
+ [GitHub](https://github.com/Ivan-codes99)
 
 ---
