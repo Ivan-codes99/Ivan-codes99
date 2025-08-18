@@ -41,11 +41,11 @@ These are technologies I’ve worked with recently, but I’m always open to lea
 
 ##  Projects
 
-### CookEasy – AI-Powered Recipe App
-AI-driven app that recommends recipes based on available kitchen ingredients. Built with **React Native**, **Node.js**, **MongoDB**, and **OpenAI API**.
+### LoyalPass – Small business Loyalty Platform
+A web app targeted towards small businesses that allow them to create and define their own loyalty programs, centered around Google and Apple Wallet passes. Includes but not limited to an Analytics dashboard, rewards customization, marketing capabilities, pass customization. Built with **React**, **Redux**, **Node**, **Express**, **PostgreSQL**, **Supabase**....
 
 ### CreatorsFIU – Student Web Marketplace
-A modern marketplace web app for student creators. Built using **React**, **Tailwind CSS**, and designed in **Figma**.
+A  marketplace web app for student creators I developed in the INIT FIU club alongside other developers. Built using **React**, **Tailwind CSS**, and designed in **Figma**.
 
 ---
 
