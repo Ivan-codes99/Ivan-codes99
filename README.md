@@ -1,6 +1,6 @@
 # Hi, I'm Ivan Figueroa
 
- **MSCS @ Florida International University** |  **Full Stack Engineer**  
+ **MSCS @ Florida International University** |  **Full Stack Software Engineer Intern @ Sports Excitement | Codepath Alumni & Tech Fellow | [Shellhacks Hackathon winner](https://ivanfigueroa.dev](https://devpost.com/software/ezspeak-30hy1w?_gl=1*1lpqty2*_gcl_au*MjA0MjkzNDg3MC4xNzU2NjY3MjUz*_ga*MTg1ODUxNDIzMS4xNzU2NjY3MjU0*_ga_0YHJK3Y10M*czE3NTkyMDY5ODUkbzUkZzEkdDE3NTkyMDc0MTgkajYkbDAkaDA.))**  
  [Portfolio](https://ivanfigueroa.dev) • [LinkedIn](https://linkedin.com/in/IvanFigueroa1) • [GitHub](https://github.com/Ivan-codes99)
 
 ---
