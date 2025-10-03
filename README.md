@@ -46,7 +46,7 @@ These are technologies I’ve worked with recently, but I’m always open to lea
 
 ## 📌 Projects  
 
-### [EzSpeak](https://youtu.be/0lh1fenJgQw) – *ShellHacks 2025 (2nd Place, Google AI for Social Good)*  
+### [EzSpeak](https://github.com/Ivan-codes99/EzSpeak-Shellhacks-2025) – *ShellHacks 2025 (2nd Place, Google AI for Social Good)*  
 Real-time Chrome extension breaking language barriers:  
 - Live **captions, translation, and AI voice** with <2s latency.  
 - Built with **Chrome MV3 APIs (tabCapture, AudioWorklet)** + **Azure Speech SDK (ASR, MT, TTS)**.  
