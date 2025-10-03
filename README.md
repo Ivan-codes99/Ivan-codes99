@@ -1,67 +1,77 @@
-# Hi, I'm Ivan Figueroa
+# Hi, I'm Ivan Figueroa 👋  
 
- **MSCS @ Florida International University** |  **Full Stack Software Engineer Intern @ Sports Excitement | Codepath Alumni & Tech Fellow | [Shellhacks Hackathon winner](https://www.linkedin.com/posts/ivanfigueroa1_shellhacks2025-google-aiforsocialgood-activity-7378277994496282624-v4W4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiUXjwBRR3v9d0EUBbuWwShCVeCb7ehmBE)**  
- [Portfolio](https://ivanfigueroa.dev) • [LinkedIn](https://linkedin.com/in/IvanFigueroa1) • [GitHub](https://github.com/Ivan-codes99)
+**MSCS @ Florida International University (2026)** | **Full Stack Software Engineer Intern @ Sports Excitement** | **ShellHacks 2025 2nd Place (Google AI for Social Good)**  
 
----
-
-##  About Me
-
-I'm a passionate full-stack developer with a strong foundation in backend engineering and a keen eye for clean, responsive frontend design. I’ve built real-world applications in collaborative, agile environments, like a loyalty platforms for small businesses at AstraWeb and social media/online marketplace platform in my current internship at Sports Excitement. Whether it's integrating Supabase auth, architecting REST APIs, or mentoring teams, I enjoy solving meaningful problems with code.
+[Portfolio](https://ivanfigueroa.dev) • [LinkedIn](https://linkedin.com/in/IvanFigueroa1) • [GitHub](https://github.com/Ivan-codes99)  
 
 ---
 
-##  Experience
+## 🚀 About Me  
+I enjoy **software development** and using technology to improve our lives.  
 
-### 🔹 Full Stack Software Engineer Intern — *Sports Excitement* (Summer 2025)
-- Developed responsive UIs with **React** and **Tailwind**, cutting dev time by 3 days.
-- Integrated **Supabase auth**, enabling secure, personalized user sessions.
-- Built filtering logic with **Node.js** and **PostgreSQL**, reducing query response time by 20%.
+I’ve previously interned at **Sports Excitement** as a Full Stack Developer Intern, where I worked with **product managers and engineers in Agile Scrum methodology** for the company’s sports gear **marketplace platform**.  
 
-### 🔹 Freelance Software Engineer — *AstraWeb* (2025–Present)
-- Created a loyalty platform for SMBs using **Google/Apple Wallet APIs**.
-- Built scalable backend services with **Node.js**, **Express**, and **PostgreSQL**.
-- Refactored dashboards using **Redux**, improving performance by 35%.
+I also deployed **LoyalPass**, a loyalty platform aimed for small businesses that lets merchants create custom reward programs with Apple and Google Wallet passes. 
 
-### 🔹 IT Intern — *Memorial Healthcare Systems* (Summer 2023)
-- Automated data validation with **Python**, saving analysts hours per week.
-- Supported ERP transition via process mapping and **Lucidchart** workflows.
+Most recently, I developed **EzSpeak**, a Chrome extension meant for online web meetings that won **2nd place at ShellHacks 2025 (Google AI for Social Good Challenge)** by providing real-time captions, translations, and AI voice for inclusive communication.  
 
 ---
 
-## Tech Stack
-I'm an engineer first — not defined by a specific language or framework, but by a mindset of problem-solving, adaptability, and delivering value.
+## 💼 Work Experience  
 
-These are technologies I’ve worked with recently, but I’m always open to learning new ones when the challenge calls for it:
+### **Full Stack Software Engineer Intern — Sports Excitement**  
+*May 2025 – Sep 2025 | Miami, FL*  
+- Engineered backend microservices with **Node.js, Express, Prisma**, powering advanced filtering for sports gear marketplace.  
+- Implemented **Redis caching** to optimize session management, reducing redundant DB calls by **21%**.  
+- Collaborated in **Agile sprints**, contributing production-ready features and weekly code reviews.  
 
-**Languages:** Java, C++, Python, JavaScript, TypeScript, SQL, HTML/CSS  
-**Frameworks & Tools:** React, Next.js, Redux, Tailwind CSS, Node.js, Express, PostgreSQL, MongoDB, Docker, Git, Swagger, Supabase, GitHub Actions
-
----
-
-##  Projects
-
-### LoyalPass – Small business Loyalty Platform
-A web app targeted towards small businesses that allow them to create and define their own loyalty programs, centered around Google and Apple Wallet passes. Includes but not limited to an Analytics dashboard, rewards customization, marketing capabilities, pass customization. Built with **React**, **Redux**, **Node**, **Express**, **PostgreSQL**, **Supabase**....
-
-### CreatorsFIU – Student Web Marketplace
-A  marketplace web app for student creators I developed in the INIT FIU club alongside other developers. Built using **React**, **Tailwind CSS**, and designed in **Figma**.
+### **IT Intern — Memorial Healthcare Systems**  
+*May 2023 – Jul 2023 | Miami, FL*  
+- Automated ERP invoice validation with **Python (Pandas + regex)**, cutting processing time by **30%**.  
+- Designed workflow diagrams in **Lucidchart** to accelerate ERP migration from Lawson → Workday.  
 
 ---
 
-##  Leadership & Teaching
+## 🛠️ Tech Stack  
 
-- **AI Project Coordinator** @ AI4ALL: Mentored student ML teams and guided project development.
-- **Python Instructor** for middle schoolers: Taught CS fundamentals through hands-on coding.
-- **App Development Mentor** @ Break Through Tech: Helped students build prototypes in a 5-day sprint.
+**Languages:** Java, JavaScript, TypeScript, Python, SQL  
+**Frameworks & Tools:** React, Redux, Tailwind CSS, Next.js, Node.js, Express, Spring Boot  
+**Databases & Cloud:** PostgreSQL, MongoDB, Redis, AWS, Azure  
+**Other:** Docker, GitHub Actions, Agile/Scrum, Linux  
+
+---
+
+## 📌 Projects  
+
+### [EzSpeak](https://chrome.google.com/webstore/detail/ezspeak/hkjlpagfimicbblamfgcdlbibmenljgj) – *ShellHacks 2025 (2nd Place, Google AI for Social Good)*  
+Real-time Chrome extension breaking language barriers:  
+- Live **captions, translation, and AI voice** with <2s latency.  
+- Built with **Chrome MV3 APIs (tabCapture, AudioWorklet)** + **Azure Speech SDK (ASR, MT, TTS)**.  
+- Led audio pipeline integration in a 3-person team, completed in **36 hours**.  
+
+### [LoyalPass](https://loyalpass.onrender.com/) – *Customer Loyalty Platform*  
+- Enabled **5+ merchants** to create and enroll **50+ customers** in custom programs via Apple/Google Wallet passes.  
+- Full-stack system with **React, Redux, Node.js, Express, PostgreSQL**, and unit testing (**90% coverage**).  
+- Authored system diagrams + API documentation for developer collaboration.  
+
+### [Sentiment Recognition](https://github.com/Ivan-codes99/Speech-sentiment-recognition) – *ML for Speech Emotion Classification*  
+- Trained **Random Forest** classifier on 10k+ audio samples, achieving **51% accuracy** (vs. 12% baseline).  
+- Engineered 15+ audio features with **librosa**; visualized results with **Matplotlib/Seaborn**.  
 
 ---
 
-## Let's Connect!
+## 👨‍🏫 Leadership & Teaching  
 
- [ivanfigueroaswe@gmail.com](mailto:ivanfigueroaswe@gmail.com)  
- [ivanfigueroa.dev](https://ivanfigueroa.dev)  
- [LinkedIn](https://linkedin.com/in/IvanFigueroa1)  
- [GitHub](https://github.com/Ivan-codes99)
+- **CodePath Tech Fellow** – Mentored 15+ students weekly on DSA interview prep in Python.  
+- **AI4ALL Coordinator** – Guided 5 ML student teams; led Python/NumPy/Pandas review sessions.  
+- **Break Through Tech Mentor** – Coached high school team to build an MIT App Inventor prototype in 5 days.  
+- **Python Instructor** – Taught Python & CS fundamentals to 10 middle school students in outreach programs.  
 
 ---
+
+## 📬 Let’s Connect  
+
+📧 [ivanfigueroaswe@gmail.com](mailto:ivanfigueroaswe@gmail.com)  
+🌐 [ivanfigueroa.dev](https://ivanfigueroa.dev)  
+💼 [LinkedIn](https://linkedin.com/in/IvanFigueroa1)  
+💻 [GitHub](https://github.com/Ivan-codes99)  
