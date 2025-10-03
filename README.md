@@ -27,17 +27,20 @@ Most recently, I developed **EzSpeak**, a Chrome extension meant for online web 
 
 ### **IT Intern — Memorial Healthcare Systems**  
 *May 2023 – Jul 2023 | Miami, FL*  
-- Automated ERP invoice validation with **Python (Pandas + regex)**, cutting processing time by **30%**.  
-- Designed workflow diagrams in **Lucidchart** to accelerate ERP migration from Lawson → Workday.  
+- Developed Python scripts using **Pandas** and **regex** to automate cross referencing of invoice records between Lawson and Workday ERP systems.  
+- Designed workflow diagrams in **Lucidchart** to accelerate ERP migration from Lawson to Workday. 
 
 ---
 
 ## 🛠️ Tech Stack  
+I'm an engineer first not defined by a specific language or framework, but by a mindset of problem solving, adaptability, and delivering value.
+
+These are technologies I’ve worked with recently, but I’m always open to learning new ones when the challenge calls for it:
 
 **Languages:** Java, JavaScript, TypeScript, Python, SQL  
 **Frameworks & Tools:** React, Redux, Tailwind CSS, Next.js, Node.js, Express, Spring Boot  
 **Databases & Cloud:** PostgreSQL, MongoDB, Redis, AWS, Azure  
-**Other:** Docker, GitHub Actions, Agile/Scrum, Linux  
+**Other:** Docker, GitHub Actions, Agile/Scrum 
 
 ---
 
