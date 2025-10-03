@@ -58,7 +58,7 @@ Real-time Chrome extension breaking language barriers:
 - Authored system diagrams + API documentation for developer collaboration.  
 
 ### [Sentiment Recognition](https://github.com/Ivan-codes99/Speech-sentiment-recognition) – *ML for Speech Emotion Classification*  
-- Trained **Random Forest** classifier on 10k+ audio samples, achieving **51% accuracy** (vs. 12% baseline).  
+- Trained **Random Forest** classifier on 10k+ audio samples to classify emotion from speech audio data, achieving **51% accuracy** (vs. 12% baseline).  
 - Engineered 15+ audio features with **librosa**; visualized results with **Matplotlib/Seaborn**.  
 
 ---
