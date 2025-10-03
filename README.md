@@ -63,7 +63,7 @@ Real-time Chrome extension breaking language barriers:
 
 ---
 
-## 👨‍🏫 Leadership & Teaching  
+## 👨‍🏫 Leadership & Extracurriculars & other work experience 
 
 - **CodePath Tech Fellow** – Mentored 15+ students weekly on DSA interview prep in Python - **Fall 2025** 
 - **AI4ALL Coordinator** – Guided 5 ML student teams; led Python/NumPy/Pandas review sessions - **Fall 2024**
