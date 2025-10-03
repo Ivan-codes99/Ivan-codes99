@@ -2,7 +2,7 @@
 
 **MSCS @ Florida International University (2026)** | **Full Stack Software Engineer Intern @ Sports Excitement** | **ShellHacks 2025 2nd Place (Google AI for Social Good)**  
 
-[Portfolio](https://ivanfigueroa.dev) • [LinkedIn](https://linkedin.com/in/IvanFigueroa1) • [GitHub](https://github.com/Ivan-codes99)  
+[LinkedIn](https://linkedin.com/in/IvanFigueroa1) • [GitHub](https://github.com/Ivan-codes99)  
 
 ---
 
@@ -75,6 +75,5 @@ Real-time Chrome extension breaking language barriers:
 ## 📬 Let’s Connect  
 
 📧 [ivanfigueroaswe@gmail.com](mailto:ivanfigueroaswe@gmail.com)  
-🌐 [ivanfigueroa.dev](https://ivanfigueroa.dev)  
 💼 [LinkedIn](https://linkedin.com/in/IvanFigueroa1)  
 💻 [GitHub](https://github.com/Ivan-codes99)  
