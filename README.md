@@ -21,7 +21,7 @@ Most recently, I developed **EzSpeak**, a Chrome extension meant for online web 
 
 ### **Full Stack Software Engineer Intern — Sports Excitement**  
 *May 2025 – Sep 2025 | Miami, FL*  
-- Engineered backend microservices with **Node.js, Express, Prisma**, powering advanced filtering for sports gear marketplace.  
+- Engineered backend microservices with **Node.js, Express, Prisma**, enabling filtering for searching in sports gear marketplace.  
 - Implemented **Redis caching** to optimize session management, reducing redundant DB calls by **21%**.  
 - Collaborated in **Agile sprints**, contributing production-ready features and weekly code reviews.  
 
