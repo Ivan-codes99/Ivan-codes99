@@ -65,10 +65,10 @@ Real-time Chrome extension breaking language barriers:
 
 ## 👨‍🏫 Leadership & Teaching  
 
-- **CodePath Tech Fellow** – Mentored 15+ students weekly on DSA interview prep in Python.  
-- **AI4ALL Coordinator** – Guided 5 ML student teams; led Python/NumPy/Pandas review sessions.  
-- **Break Through Tech Mentor** – Coached high school team to build an MIT App Inventor prototype in 5 days as a Break Through Tech Winter Guild 2023 mentor.  
-- **Python Instructor** – Taught Python & CS fundamentals to 10 middle school students.  
+- **CodePath Tech Fellow** – Mentored 15+ students weekly on DSA interview prep in Python - **Fall 2025** 
+- **AI4ALL Coordinator** – Guided 5 ML student teams; led Python/NumPy/Pandas review sessions - **Fall 2024**
+- **Break Through Tech Mentor** – Mentored high school team to build an MIT App Inventor prototype in 5 days - **Dec 2023**
+- **Python Instructor** – Taught Python & CS fundamentals to 10 middle school students at Paul W Bell Middle School - **Fall 2023**
 
 ---
 
